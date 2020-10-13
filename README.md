@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Urudandaza](https://github.com/Konstrictor/urudandaza)
 
-- 👯 I’m looking to collaborate on [RihaApp](https://riha.hogi.bi/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Konstrictor](https://github.com/Konstrictor)
 
 - 💬 Ask me about **Django, Java, VueJs, Networking**
