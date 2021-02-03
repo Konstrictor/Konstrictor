@@ -1,22 +1,21 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Konstrictor</h1>
+<h1 align="center">Hi 👋, I'm Konstrictor</h1>
 <h3 align="center">Full-stack Developer from Burundi</h3>
 
-
-- ðŸ”­ Iâ€™m currently working on [Urudandaza](https://github.com/Konstrictor/urudandaza)
-
-- ðŸ‘¯ Iâ€™m looking to collaborate on [RihaApp](https://riha.hogi.bi/)
-
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/Konstrictor](https://github.com/Konstrictor)
-
-- ðŸ’¬ Ask me about **Django, Java, VueJs, Networking and FastAPI**
-
-- ðŸ“« How to reach me **jonkur@gmail.com**
-
-- ðŸ“„ Know about my experiences [Python, Js, Django, VueJs, FastAPI and Java-based android. Like network&system scripting using BeautifulSoup, requests, sockets,.](Python, Js, Django, VueJs, FastAPI and Java-based android. Like network&system scripting using BeautifulSoup, requests, sockets,.)
-
-- âš¡ Fun fact **I like UBUGARI**
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konstrictor" alt="konstrictor" /></a> </p>
+
+- 🔭 I’m currently working on [Urudandaza](https://github.com/Konstrictor/urudandaza)
+
+- 👯 I’m looking to collaborate on [RihaApp](https://riha.hogi.bi/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Konstrictor](https://github.com/Konstrictor)
+
+- 💬 Ask me about **Django, Java, VueJs, Networking and FastAPI**
+
+- 📫 How to reach me **jonkur@gmail.com**
+
+- 📄 Know about my experiences [Python, Js, Django, VueJs, FastAPI and Java-based android. Like network&system scripting using BeautifulSoup, requests, sockets,.](Python, Js, Django, VueJs, FastAPI and Java-based android. Like network&system scripting using BeautifulSoup, requests, sockets,.)
+
+- ⚡ Fun fact **I like UBUGARI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstrictor&show_icons=true&locale=en&layout=compact" alt="konstrictor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konstrictor&show_icons=true&locale=en" alt="konstrictor" /></p>
-
